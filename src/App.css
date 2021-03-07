@@ -1,5 +1,13 @@
-.App {
-  text-align: center;
+.table__container {
+ 
+    position: absolute ;
+    top: 20px ;
+   
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  
 }
 
 .App-logo {
